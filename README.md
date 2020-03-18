@@ -1,8 +1,9 @@
 # BitFinance Dex App
+The idea is to get support for the Nordic Energy token
 
 ![animated preview](https://github.com/sigillabs/mobidex/raw/master/images/previews/animated/10-06-2018T13-57-49.gif)
 
-The idea is to get support for the Nordic Energy token
+
 
 ## Table of Contents
 
